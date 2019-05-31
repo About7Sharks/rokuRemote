@@ -24,10 +24,9 @@
       <b-row align-h="center">
       <b-button variant="outline-info" @click="down()">Down</b-button>
       </b-row>
-    </div>
+    </div> 
   </div>
 </template>
-
 <script>
 // @ is an alias to /src
 // import HelloWorld from '@/components/HelloWorld.vue'
